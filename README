@@ -1,0 +1,4 @@
+This is a simple Indexer Searcher for Desktop users writen in python using wshoosh module which is similar to Lucene.
+
+In this all the files are added to one index and all the contents of a
+text file or pdf file is then added as a searchable string.
